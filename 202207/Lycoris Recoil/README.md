@@ -1,1 +1,3 @@
-# Lycoris Recoil
+## Lycoris Recoil
+
+All is finished.
