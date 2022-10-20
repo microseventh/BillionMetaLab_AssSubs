@@ -9,7 +9,7 @@
 日期 | 更新至哪一集 | 番组名称 | 中文字体 | 日文字体
 ---    | -------- | --- | --- | ---
 202207 | |  |  | 
-202207 | 03（END）+ BD | Lycoris Recoil | 思源宋体 CN、思源宋体 TW | Yu Gothic
+202207 | 03（END）+ BD | The Girl from the Other Side: Siúil, a Rún（外之国少女） | 方正北魏楷书_GBK、汉仪家书简、方正正中黑_GBK | UDDigiKyokashoN-B
 202207 | 13(END) | Lycoris Recoil | 思源宋体 CN、思源宋体 TW | Yu Gothic
 202207 | 08| Fuuto Tantei（风都侦探） | 方正FW珍珠体 简繁 | Yu Gothic
 202207 | 06 | Extreme Hearts | 方正特雅宋_GBK | Yu Gothic
