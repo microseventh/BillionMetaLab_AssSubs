@@ -1,6 +1,6 @@
 # Billion Meta Lab （亿次研同好会）2022年7月新番制作字幕收录
 ## 已完成
- - The Girl from the Other Side: Siúil（外之国少女）, a Rún [01-03]+[BD-OVA]
+ - The Girl from the Other Side: Siúil, a Rún（外之国少女） [01-03]+[BD-OVA]
  - Lycoris Recoil [01-13]
  - Extreme Hearts [01-06]
  - Fuuto Tantei（风都侦探） [01-08]
