@@ -21,7 +21,7 @@
 
 1. 与其他字幕组合作的作品会进行标注。在此对合作的字幕组表示由衷的感谢。
 2. 本组字幕一般为简繁中文字幕。视频发布格式标准为：
-	- [Billion Meta Lab][Bangumi_name][Episode][Resolution][Coding][Subtitle_Language]
+	- [Billion Meta Lab][Bangumi_name][Episode][Resolution][Coding][Subtitle_Language][Else]
 
 
 后缀名称 | 后缀解释 
@@ -32,6 +32,7 @@
 [Resolution] | 即番剧的分辨率，一般为1920*1080，故常用[1080p]；本组根据情况选择性压制720p分辨率的视频
 [Coding] | 即番剧的视频编码，若无写出，则默认采用[x264 8bit]的压制格式；[HEVC 10bit]表示采用[x265 10bit]的压制方式
 [Subtitle_Language] | 即番剧的字幕语言，其中[CHS]、[CHT]分别表示简体、繁体的内嵌字幕；[CHS&CHT]表示简繁内封字幕
+[Else] | 即番剧的其它信息，包括但不限于音频语言、是否修正、有无马赛克之类的；若未写出默认为原版视频。
 	
 	 
 	
