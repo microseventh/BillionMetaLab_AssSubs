@@ -16,7 +16,7 @@
 202210 | |  |  | 
 202210 | 06 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
 202210 | 05 | 新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei) | 仓耳今楷01-W05 | Yu Gothic
-202210 | 02 | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
+202210 | 03 | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
 202210 | 01 | 孤独摇滚 (**与MingYSub联合制作**) | （详见子文件夹） | （详见子文件夹）
 
 ## 字幕注意事项
