@@ -14,7 +14,7 @@
 202207 | 08| Fuuto Tantei（风都侦探） | 方正FW珍珠体 简繁 | Yu Gothic
 202207 | 06 | Extreme Hearts | 方正特雅宋_GBK | Yu Gothic
 202210 | |  |  | 
-202210 | 06 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
+202210 | 07 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
 202210 | 06 | 新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei) | 仓耳今楷01-W05 | Yu Gothic
 202210 | 03 | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
 202210 | 01 | 孤独摇滚 (**与MingYSub联合制作**) | （详见子文件夹） | （详见子文件夹）
