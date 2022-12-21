@@ -14,10 +14,10 @@
 202207 | 08| Fuuto Tantei（风都侦探） | 方正FW珍珠体 简繁 | Yu Gothic
 202207 | 06 | Extreme Hearts | 方正特雅宋_GBK | Yu Gothic
 202210 | |  |  | 
-202210 | 09 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
+202210 | 11 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
 202210 | 07 | 新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei) | 仓耳今楷01-W05 | Yu Gothic
-202210 | 06 | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
-202210 | 02 | 孤独摇滚 (**与MingYSub联合制作**) | （详见子文件夹） | （详见子文件夹）
+202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
+202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | （略）
 
 ## 字幕注意事项
 
@@ -47,8 +47,6 @@
 	- 发布修改版字幕（包括但不限于时间轴调整、译法调整）**一定要注明来源和附带原始字幕**；
 		- 如果发现错字、错译、错轴等通过[Telegram Channel](https://t.me/Billion_Meta_Lab) 等方式反馈；
 	- 禁止用于商业目的；
-	- 发布同为文本字幕的修改版字幕演绎遵循上述第二点；
-	- 禁止发布一切未经同意的不可逆的文本转图像修改版字幕（包括但不限于外挂结构、加流重灌）；
 	- 本组所有字幕无特殊声明外均遵循上述协议进行许可，如有疑问请通过[Telegram Channel](https://t.me/Billion_Meta_Lab) 联系本组。
 
 ## 文件夹格式说明
@@ -62,16 +60,16 @@
 
 本组任何弃坑番剧的字幕都会发布到对应文件夹中。
 
-根据时间的安排，我们会逐渐填补些空缺。（当然，大概率是不会填坑的）
+根据时间表的安排，大概率是不会填坑的。
 
 ## 本组开番规律
 
-根据本组以往经验，本组致力于**百合番组**的汉化，同时对一些**治愈系的**番剧颇感兴趣。
+根据本组以往经验，本组致力于**百合番组**的汉化，同时对一些**治愈系**的番剧颇感兴趣。
 
 只要是我这个组长不感兴趣的番组一律不做。
 
 ## 其他
 
-本组正在编写《从入门到放弃：Billion Meta Lab 字幕组全流程》
+本组正在编写《Billion Meta Lab 字幕组全流程》
 
-若有建议，欢迎到[Telegram Channel](https://t.me/Billion_Meta_Lab) 提问。
+若有建议，欢迎到[Telegram Channel](https://t.me/Billion_Meta_Lab) 留言。
