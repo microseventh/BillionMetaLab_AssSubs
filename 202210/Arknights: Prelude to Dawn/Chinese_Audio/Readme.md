@@ -4,6 +4,8 @@
 
 **本组已经对音频进行过画面匹配，直接外挂Web片源使用即可。**
 
+下载地址：[Google Drive](https://drive.google.com/drive/folders/1Azh2Z8hBcS0NdFzb0FruYtxyN7mS71v8?usp=sharing)、[Aliyun]()
+
 ## 音频调节过程：
 
 Bilibili版本《明日方舟：黎明前奏》存在【国家广播电视总局】的版权片头（非常影响观看体验）
