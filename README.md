@@ -9,15 +9,15 @@
 日期 | 更新至哪一集 | 番组名称 | 中文字体 | 日文字体
 ---    | -------- | --- | --- | ---
 202207 | |  |  | 
-202207 | 03（END）+ BD | The Girl from the Other Side: Siúil, a Rún（外之国少女） | 方正北魏楷书_GBK、汉仪家书简、方正正中黑_GBK | UDDigiKyokashoN-B
+202207 | 03（END）+ BD | 外之国少女（The Girl from the Other Side: Siúil, a Rún） | 方正北魏楷书_GBK、汉仪家书简、方正正中黑_GBK | UDDigiKyokashoN-B
 202207 | 13(END) | Lycoris Recoil | 思源宋体 CN、思源宋体 TW | Yu Gothic
-202207 | 08| Fuuto Tantei（风都侦探） | 方正FW珍珠体 简繁 | Yu Gothic
-202207 | 06 | Extreme Hearts | 方正特雅宋_GBK | Yu Gothic
+202207 | 08(Abandon)| ~~Fuuto Tantei（风都侦探）~~ | 方正FW珍珠体 简繁 | Yu Gothic
+202207 | 06(Abandon) | ~~Extreme Hearts~~ | 方正特雅宋_GBK | Yu Gothic
 202210 | |  |  | 
-202210 | 11 | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
-202210 | 07 | 新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei) | 仓耳今楷01-W05 | Yu Gothic
+202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
 202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
 202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | （略）
+202210 | 07(Abandon) | ~~新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei)~~ | 仓耳今楷01-W05 | Yu Gothic
 
 ## 字幕注意事项
 
@@ -58,9 +58,9 @@
 
 ## 弃坑字幕说明
 
-本组任何弃坑番剧的字幕都会发布到对应文件夹中。
+本组任何弃坑番剧的字幕都会发布到对应文件夹中。根据时间表的安排，是不会填坑的。
 
-根据时间表的安排，大概率是不会填坑的。
+我们会在上面进行标注那些是弃坑的番组。
 
 ## 本组开番规律
 
