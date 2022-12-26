@@ -2,10 +2,13 @@
 
 配音分类|字幕分类
 ---|---
-Japanese_CHS|日语配音+简体中文
-Japanese_CHT|日语配音+繁体中文
+Chinese_Audio|中文配音音频
 Chinese_CHS|中文配音+简体中文
 Chinese_CHT|中文配音+繁体中文
+Japanese_CHS|日语配音+简体中文
+Japanese_CHT|日语配音+繁体中文
+
+
 
 
 ### 温馨提示：（简体）
