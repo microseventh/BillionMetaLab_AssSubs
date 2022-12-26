@@ -2,22 +2,23 @@
 # 亿次研同好会 番剧字幕汇总
 
 
-所有制作过的番剧，包括**弃坑**的番组字幕，都会发布到每个季度的文件夹里。
+所有制作过的番剧，都会发布到每个季度的文件夹里。弃坑的番组[在这里看](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/Abandon_bangumi)。
 
 正在进行的番剧字幕将会随着种子发布同步到文档里。
 
 日期 | 更新至哪一集 | 番组名称 | 中文字体 | 日文字体
 ---    | -------- | --- | --- | ---
-202207 | |  |  | 
-202207 | 03（END）+ BD | 外之国少女（The Girl from the Other Side: Siúil, a Rún） | 方正北魏楷书_GBK、汉仪家书简、方正正中黑_GBK | UDDigiKyokashoN-B
-202207 | 13(END) | Lycoris Recoil | 思源宋体 CN、思源宋体 TW | Yu Gothic
-202207 | 08(Abandon)| ~~Fuuto Tantei（风都侦探）~~ | 方正FW珍珠体 简繁 | Yu Gothic
-202207 | 06(Abandon) | ~~Extreme Hearts~~ | 方正特雅宋_GBK | Yu Gothic
-202210 | |  |  | 
+ | |  |  |
+202301 | 计划中 | 再摔一跤！(ipponagain!)| |
+202301 | 计划中 | 转生王女与天才千金的魔法革命| |
+ | |  |  | 
 202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 | Yu Gothic
 202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 | Yu Gothic
 202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | （略）
-202210 | 07(Abandon) | ~~新人炼金术师的店铺经营(Shinmai Renkinjutsushi no Tenpo Keiei)~~ | 仓耳今楷01-W05 | Yu Gothic
+ | |  |  | 
+202207 | 03+BD(END) | 外之国少女 | 方正北魏楷书_GBK、汉仪家书简、方正正中黑_GBK | UDDigiKyokashoN-B
+202207 | 13(END) | Lycoris Recoil | 思源宋体 CN、思源宋体 TW | Yu Gothic
+
 
 ## 字幕注意事项
 
