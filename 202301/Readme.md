@@ -1,4 +1,6 @@
-# 2023年一月冬季新番
+# 2023年一月冬季新番制作计划
+
+### 字体下载：[Google Drive](https://drive.google.com/drive/folders/1iypa6zAL0BJhom4-htpNNXLzyMMuB_xx?usp=sharing)
 
 日期 | 更新至哪一集 | 番组名称 | 中文字体 | 日文字体
 ---    | -------- | --- | --- | ---
