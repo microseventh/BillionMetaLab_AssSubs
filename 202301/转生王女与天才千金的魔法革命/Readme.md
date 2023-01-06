@@ -5,6 +5,7 @@
 发布日期与时间 | 剧集 | 剧集标题 | 中文字体 | 日文字体 | 字体下载 | 发布贴
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
 2023.01.06 14:00 | 01 | 王女与千金的魔法革命 | sarasa-term-sc-bold <br/> sarasa-term-tc-bold | None | [Google Drive](https://drive.google.com/drive/folders/1iypa6zAL0BJhom4-htpNNXLzyMMuB_xx?usp=sharing) | [CHS](https://bangumi.moe/torrent/63b7b8a01bdd67000741f6b2)<br/>[CHT](https://bangumi.moe/torrent/63b7b8c41bdd67000741f700)<br/>[CHS&CHT](https://bangumi.moe/torrent/63b7b8ee1bdd67000741f773)
+未更新 | 02 | 获得志同道合与德才兼备的助手 | sarasa-term-sc-bold <br/> sarasa-term-tc-bold |  | - | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
 
 ## 人名参考翻译
 
