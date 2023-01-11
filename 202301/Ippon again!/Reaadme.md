@@ -1,1 +1,15 @@
+# Ippon again!「再得一胜！」（再摔一跤！）
+
+### 注意：本组片源使用【ADN】，如果您使用的是【SubsPlease/Erai/NC】片源，字幕并不匹配时轴。
+
+### 如果您仍需要使用其它片源，请将字幕时轴延迟1000毫秒（使用Aegisub就行时轴平移即可）
+
+### 温馨提示：从2023年一月开始，内封字幕版本使用字体子集化，如需要原版字幕和全字体请在Github上进行下载
+
+发布日期与时间 | 剧集 | 剧集标题 | 中文字体 | 日文字体 | 字体下载 | 发布贴
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+2023.01.11 14:31 | 01 | - | sarasa-term-sc-bold <br/> sarasa-term-tc-bold | sarasa-term-j-bold | [Google Drive](https://drive.google.com/drive/folders/1iypa6zAL0BJhom4-htpNNXLzyMMuB_xx?usp=sharing) | [CHS](https://bangumi.moe/torrent/63be57ce1bdd67000757069e)<br/>[CHT](https://bangumi.moe/torrent/63be58011bdd670007570781)<br/>[CHS&CHT](https://bangumi.moe/torrent/63be58441bdd670007570875)
+未更新 | 02 | - | sarasa-term-sc-bold <br/> sarasa-term-tc-bold | sarasa-term-j-bold | - | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
+
+
 
