@@ -9,9 +9,9 @@
 ### 温馨提示：从2023年一月开始，内封字幕版本使用字体子集化，如需要原版字幕和全字体请在Github上进行下载
 
 发布日期与时间 | 剧集 | 剧集标题 | 中文字体 | 日文字体 | 字体下载 | 发布贴
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
-2023.01.11 14:31 | 01 | - | sarasa-term-sc-bold <br/> sarasa-term-tc-bold | sarasa-term-j-bold | [Google Drive](https://drive.google.com/drive/folders/1iypa6zAL0BJhom4-htpNNXLzyMMuB_xx?usp=sharing) | [CHS](https://bangumi.moe/torrent/63be57ce1bdd67000757069e)<br/>[CHT](https://bangumi.moe/torrent/63be58011bdd670007570781)<br/>[CHS&CHT](https://bangumi.moe/torrent/63be58441bdd670007570875)
-未更新 | 02 | - | sarasa-term-sc-bold <br/> sarasa-term-tc-bold | sarasa-term-j-bold | - | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
+:---: | :---: | :---: | :--- | :---: | :---: | :---:
+2023.01.11 14:31 | 01 | - | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular | sarasa-term-j-bold | [Google Drive](https://drive.google.com/drive/folders/1iypa6zAL0BJhom4-htpNNXLzyMMuB_xx?usp=sharing) | [CHS](https://bangumi.moe/torrent/63be57ce1bdd67000757069e)<br/>[CHT](https://bangumi.moe/torrent/63be58011bdd670007570781)<br/>[CHS&CHT](https://bangumi.moe/torrent/63be58441bdd670007570875)
+未更新 | 02 | - | - | - | - | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
 
 
 
