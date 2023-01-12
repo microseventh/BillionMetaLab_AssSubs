@@ -18,3 +18,4 @@
 蕾妮·希安 | レイニ・シアン | Lainie Cyan
 缇尔蒂·库拉雷特 | ティルティ・クラーレット | Tilty Claret
 格兰兹·玛赞塔 | グランツ・マゼンタ | Grants Magenta
+奥卢芬斯·伊鲁·帕雷提亚 | オルファンス・イル・パレッティア | Orphans il Palletia
