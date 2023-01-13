@@ -6,7 +6,7 @@
 :---: | :---: | :---: | :---: | :---: 
 2023.01.06 14:00 | 01 | 王女与千金的魔法革命 | sarasa-term-sc-bold <br/> sarasa-term-tc-bold | [CHS](https://bangumi.moe/torrent/63b7b8a01bdd67000741f6b2)<br/>[CHT](https://bangumi.moe/torrent/63b7b8c41bdd67000741f700)<br/>[CHS&CHT](https://bangumi.moe/torrent/63b7b8ee1bdd67000741f773)
 2023.01.13 14:01 | 02 | 获得志同道合与德才兼备的助手 | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular <br/>sarasa-term-j-bold | [CHS](https://bangumi.moe/torrent/63c0f3b21bdd6700075f94ed)<br/>[CHT](https://bangumi.moe/torrent/63c0f3e91bdd6700075f95d9)<br/>[CHS&CHT](https://bangumi.moe/torrent/63c0f42a1bdd6700075f96a0)
-未更新 | 03 | 憧憬回忆的彩虹魔剑 | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular <br/> sarasa-term-j-bold | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
+未更新 | 03 | 憧憬回忆的彩虹魔剑 | （以下均同） | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
 
 ## 人名参考翻译
 
