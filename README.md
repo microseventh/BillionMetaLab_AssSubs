@@ -12,7 +12,7 @@
 :---:   | :--------: | :---: | :---: | :---:
  | |  |  | 
 202301 | 02 | Ipponagain!「再得一胜！」| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/Ippon%20again!) | 另发布AV1编码版本
-202301 | 02 | 转生王女与天才千金的魔法革命| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD) | 另发布AV1编码版本
+202301 | 03 | 转生王女与天才千金的魔法革命| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD) | 另发布AV1编码版本
  | |  |  | 
 202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 <br/> Yu Gothic | 
 202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 <br/> Yu Gothic | 
