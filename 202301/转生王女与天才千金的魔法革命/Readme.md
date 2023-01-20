@@ -8,9 +8,9 @@
 2023.01.13 14:01 | 02 | 获得志同道合与德才兼备的助手 | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular <br/>sarasa-term-j-bold | [CHS](https://bangumi.moe/torrent/63c0f3b21bdd6700075f94ed)<br/>[CHT](https://bangumi.moe/torrent/63c0f3e91bdd6700075f95d9)<br/>[CHS&CHT](https://bangumi.moe/torrent/63c0f42a1bdd6700075f96a0)
 未更新 | 03 | 憧憬回忆的彩虹魔剑 | （以下均同） | [CHS]()<br/>[CHT]()<br/>[CHS&CHT]()
 
-## 人名参考翻译
+## 参考翻译
 
-中文翻译人名 | 日文原名 | 欧洲对应音名 | 
+中文翻译 | 日文原名 | 欧洲对应音名 | 
 --- | ---| ---
 艾妮丝菲亚·温·帕雷提亚 | アニスフィア・ウィン・パレッティア | Anisphia Wynn Palettia
 尤菲莉亚·玛赞塔 | ユフィリア・マゼンタ | Euphyllia Magenta
@@ -21,3 +21,4 @@
 格兰兹·玛赞塔 | グランツ・マゼンタ | Grants Magenta
 奥卢芬斯·伊鲁·帕雷提亚 | オルファンス・イル・パレッティア | Orphans il Palletia
 夏尔托斯 | シャルトルーズ | Chartreuse
+落虹 | - | arc en ciel
