@@ -8,7 +8,7 @@
 2023.01.13 14:01 | 02 | 获得志同道合与德才兼备的助手 | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular <br/>sarasa-term-j-bold | [CHS](https://bangumi.moe/torrent/63c0f3b21bdd6700075f94ed)<br/>[CHT](https://bangumi.moe/torrent/63c0f3e91bdd6700075f95d9)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63c0f42a1bdd6700075f96a0)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63c2a4f21bdd67000764ce72)
 2023.01.20 10:00 | 03 | 憧憬回忆的彩虹魔剑 | （以下均同02） | [CHS](https://bangumi.moe/torrent/63c9f5ad5fa12c000738be0b)<br/>[CHT](https://bangumi.moe/torrent/63c9f67e5fa12c000738c11e)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63c9f6ba5fa12c000738c209)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63c9f7385fa12c000738c3e4)
 2023.01.27 12:51 | 04 | 公主殿下与迷途少女的决心表明 | - | [CHS](https://bangumi.moe/torrent/63d358465fa12c0007587483)<br/>[CHT](https://bangumi.moe/torrent/63d359305fa12c00075877f1)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63d359745fa12c00075878dc)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63d359a55fa12c00075879a2)
-未更新 | 05 | 魔药与魔剑的魔竜讨伐 | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
+2023.02.03 02:08 | 05 | 魔药与魔剑的魔竜讨伐 | - | [CHS](https://bangumi.moe/torrent/63dbfc075fa12c00077712b2)<br/>[CHT](https://bangumi.moe/torrent/63dbffa95fa12c00077720fe)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63dbfd9f5fa12c00077718f7)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63dbff055fa12c0007771e96)
 
 
 ## 参考翻译
