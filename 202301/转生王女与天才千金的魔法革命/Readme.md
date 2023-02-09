@@ -9,8 +9,8 @@
 2023.01.20 10:00 | 03 | 憧憬回忆的彩虹魔剑 | （以下均同02） | [CHS](https://bangumi.moe/torrent/63c9f5ad5fa12c000738be0b)<br/>[CHT](https://bangumi.moe/torrent/63c9f67e5fa12c000738c11e)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63c9f6ba5fa12c000738c209)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63c9f7385fa12c000738c3e4)
 2023.01.27 12:51 | 04 | 公主殿下与迷途少女的决心表明 | - | [CHS](https://bangumi.moe/torrent/63d358465fa12c0007587483)<br/>[CHT](https://bangumi.moe/torrent/63d359305fa12c00075877f1)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63d359745fa12c00075878dc)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63d359a55fa12c00075879a2)
 2023.02.03 02:08 | 05 | 魔药与魔剑的魔竜讨伐 | - | [CHS](https://bangumi.moe/torrent/63dbfc075fa12c00077712b2)<br/>[CHT](https://bangumi.moe/torrent/63dbffa95fa12c00077720fe)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63dbfd9f5fa12c00077718f7)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63dbff055fa12c0007771e96)
-未更新 | 06 | 悔婚与魅惑的真相察明 | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
-
+2023.02.09 15:31 | 06 | 悔婚与魅惑的真相察明 | - | [CHS](https://bangumi.moe/torrent/63e4a13a5fa12c0007945e83)<br/>[CHT](https://bangumi.moe/torrent/63e4a1535fa12c0007945ed7)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63e4a16a5fa12c0007945f19)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63e4a1905fa12c0007945fa6)
+未更新 | 07 | 鼻祖与助手的魔学讲演 | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
 
 ## 参考翻译
 
