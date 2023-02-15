@@ -15,5 +15,6 @@
 2023.01.26 00:20 | 03 | 气氛 将会由她改变！ | - | - | - | [CHS](https://bangumi.moe/torrent/63d156d05fa12c00075165a7)<br/>[CHT](https://bangumi.moe/torrent/63d156ee5fa12c000751660a)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63d157125fa12c000751668d)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63d157555fa12c0007516770)
 2023.02.01 18:39 | 04 | 有三个人 没有问题 | - | - | - | [CHS](https://bangumi.moe/torrent/63da41675fa12c000770d8c2)<br/>[CHT](https://bangumi.moe/torrent/63da41fa5fa12c000770daea)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63da42885fa12c000770dd0e)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63da45215fa12c000770e766)
 2023.02.12 14:04 | 05 | 柔道 真让人兴奋呢 | - | - | - | [CHS](https://bangumi.moe/torrent/63e88154c02db3000707240c)<br/>[CHT](https://bangumi.moe/torrent/63e881cac02db300070725ba)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63e88214c02db300070726b8)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63e88253c02db300070727a1)
-不想后悔罢了 | 06 | - | - | - | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
-未更新 | 07 | - | - | - | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
+2023.02.15 22:08 | 06 | 不想后悔罢了 | - | - | - | [CHS](https://bangumi.moe/torrent/63ece7666ac9210007a590cb)<br/>[CHT](https://bangumi.moe/torrent/63ece77b6ac9210007a5911f)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63ece7886ac9210007a5914b)<br/>[AV1 CHS&CHT]()
+未更新 | 07 |秘密兵器前辈 | - | - | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63ece7986ac9210007a59181)
+未更新 | 08 | - | - | - | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
