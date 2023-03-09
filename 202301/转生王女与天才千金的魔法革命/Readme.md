@@ -13,7 +13,8 @@
 2023.02.16 19:37 | 07 | 鼻祖与助手的魔学讲演 | - | [CHS](https://bangumi.moe/torrent/63ee156c6ac9210007a968ea)<br/>[CHT](https://bangumi.moe/torrent/63ee15816ac9210007a96953)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63ee16bd6ac9210007a96d6e)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63ee32446ac9210007a9c2e8)
 2023.02.24 03:17 | 08 | 怪物与凡愚的魔法定义 | - | [CHS](https://bangumi.moe/torrent/63f7bbe324768500077adf8c)<br/>[CHT](https://bangumi.moe/torrent/63f7bcb024768500077ae225)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/63f7bcc024768500077ae26b)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/63f7bcd224768500077ae299)
 2023.03.02 23:19 | 09 | 姐弟与为谁加冕的王冠 | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular  | [CHS](https://bangumi.moe/torrent/6400be6e79794900078dd4e3)<br/>[CHT](https://bangumi.moe/torrent/6400be8779794900078dd558)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/6400be9879794900078dd58a)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/6400bea879794900078dd5b7)
-未更新 | 10 | 谛观与激情的王位继承 | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
+2023.03.10 01:55 | 10 | 谛观与激情的王位继承 | - | [CHS](https://bangumi.moe/torrent/640a1d9678741b0007e68fb1)<br/>[CHT](https://bangumi.moe/torrent/640a1da678741b0007e68ff0)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/640a1db278741b0007e6902b)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/640a1dc278741b0007e69071)
+未更新 | 11 | 失意与决意的精灵契约 | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
 
 ## 参考翻译
 
