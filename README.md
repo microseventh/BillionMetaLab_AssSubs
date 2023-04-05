@@ -16,7 +16,7 @@
  | |  |  | 
 202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 <br/> Yu Gothic | 
 202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 <br/> Yu Gothic | 
-202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | 
+202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | 暂时开摆 仅发布BD
  | |  |  |
 202207 | 03+BD(END) | 外之国少女 | 方正北魏楷书_GBK<br/>汉仪家书简<br/>方正正中黑_GBK <br/> UDDigiKyokashoN-B | 
 202207 | 13(END) | Lycoris Recoil | 思源宋体 CN<br/>思源宋体 TW <br/> Yu Gothic | 成品不佳 择期重置
