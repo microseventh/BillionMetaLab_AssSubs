@@ -15,7 +15,7 @@
 2023.03.02 23:19 | 09 | 姐弟与为谁加冕的王冠 | sarasa-term-sc-bold <br/> sarasa-term-sc-regular <br/> sarasa-term-tc-bold <br/> sarasa-term-tc-regular  | [CHS](https://bangumi.moe/torrent/6400be6e79794900078dd4e3)<br/>[CHT](https://bangumi.moe/torrent/6400be8779794900078dd558)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/6400be9879794900078dd58a)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/6400bea879794900078dd5b7)
 2023.03.10 01:55 | 10 | 谛观与激情的王位继承 | - | [CHS](https://bangumi.moe/torrent/640a1d9678741b0007e68fb1)<br/>[CHT](https://bangumi.moe/torrent/640a1da678741b0007e68ff0)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/640a1db278741b0007e6902b)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/640a1dc278741b0007e69071)
 2023.03.17 01:56 | 11 | 失意与决意的精灵契约 | - | [CHS](https://bangumi.moe/torrent/64135863685d5f0007dfbe1f)<br/>[CHT](https://bangumi.moe/torrent/6413588c685d5f0007dfbea3)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/6413589b685d5f0007dfbed9)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/641358ac685d5f0007dfbef8)
-未更新 | 12 | 少女与少女的魔法革命 | - | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()<br/>[AV1 CHS&CHT]()
+2023.03.23 | 12 | 少女与少女的魔法革命 | - | [CHS](https://bangumi.moe/torrent/641b5aae685d5f0007f6658d)<br/>[CHT](https://bangumi.moe/torrent/641b5ac5685d5f0007f665d4)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/641b5752685d5f0007f65b4a)<br/>[AV1 CHS&CHT](https://bangumi.moe/torrent/641b5779685d5f0007f65be8)
 
 ## 参考翻译
 
