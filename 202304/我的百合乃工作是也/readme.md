@@ -15,8 +15,8 @@
 2023.05.29 14:36 | 08 | 到底应该投票给谁呢？  |[CHS](https://bangumi.moe/torrent/647447ef700808000730e2a3)<br/>[CHT](https://bangumi.moe/torrent/64744800700808000730e2c1)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/6474480f700808000730e2e0) 
 2023.06.03 19：38 | 09 | 兀自一人的话  | [CHS](https://bangumi.moe/torrent/647b2627700808000743661b)<br/>[CHT](https://bangumi.moe/torrent/647b26367008080007436644)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/647b2641700808000743666b)
 2023.06.10 22：27 | 10 | 你要把它破坏掉吗？  | [CHS](https://bangumi.moe/torrent/6484883870080800075cfdfa)<br/>[CHT](https://bangumi.moe/torrent/6484884a70080800075cfe2d)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/6484887970080800075cfea3)
-0 | 11 | Blume der Liebe <br>「鲜花至爱」  | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()
-0 | 12 | -  | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()
+2023.06.16 02:41 | 11 | Blume der Liebe <br>「鲜花至爱」  | [CHS](https://bangumi.moe/torrent/648b5b52215b6f0008eca8cf)<br/>[CHT](https://bangumi.moe/torrent/648b5b62215b6f0008eca91c)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/648b5b70215b6f0008eca957)
+0 | 12 | 欢迎来到夏日Liebe女学园！  | [CHS]()<br/>[CHT]()<br/>[HEVC CHS&CHT]()
 
 单集发布日期与时间 | 剧集 | 剧集标题 | 字体 |发布贴 
 :---: | :---: | :---: | :---:  | :---:
