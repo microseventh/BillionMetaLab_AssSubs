@@ -12,7 +12,7 @@
 :---:   | :--------: | :---: | :---: | :---:
  | | | |
 202304 | 04 | 江户前精灵 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁先行<br>双语看心情
-202304 | 10 | 我的百合乃工作是也！<br>营业百合 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简体、繁体字幕
+202304 | 11 | 我的百合乃工作是也！<br>营业百合 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简体、繁体字幕
 202304 | 01 | 绊之Allele | 之后再说 | 占坑
  | |  |  | 
 202301 | 11 | Ipponagain!<br>再得一胜！| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/Ippon%20again!) | 01-09另发布AV1编码版本<br>10-13单集仅发布Telegram<br>合集将会延期至四月制作
