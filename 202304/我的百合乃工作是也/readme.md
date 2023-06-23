@@ -5,7 +5,7 @@
 合集发布日期与时间 | 剧集 | 磁力链接 | 发布贴 
 :---: | :---: | :---: | :---:  
  | | |
-2023.06.23 20:34 | 01-12(END) | [CHS](magnet:?xt=urn:btih:a0da6a1641b458af08205be2078891ad36d4aca3)<br>[CHT](magnet:?xt=urn:btih:f621419d18bf1845407aed0e4acd21badd9d5d67)<br>[CHS&CHT](magnet:?xt=urn:btih:5b85d1946f33dbd21425203f6609b26979dd2d94) | [CHS](https://bangumi.moe/torrent/6495916f3fcfea00077892e1)<br/>[CHT](https://bangumi.moe/torrent/649591ee3fcfea0007789430)<br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/649592433fcfea00077894fe)
+2023.06.23 20:34 | 01-12(END) | a0da6a1641b458af08205be2078891ad36d4aca3<br/><br/>f621419d18bf1845407aed0e4acd21badd9d5d67<br/><br/>5b85d1946f33dbd21425203f6609b26979dd2d94 | [CHS](https://bangumi.moe/torrent/6495916f3fcfea00077892e1)<br/><br/>[CHT](https://bangumi.moe/torrent/649591ee3fcfea0007789430)<br/><br/>[HEVC CHS&CHT](https://bangumi.moe/torrent/649592433fcfea00077894fe)
 
 
 # 
