@@ -11,7 +11,7 @@
 日期 | 更新至哪一集 | 番组名称 | 字体 | 其他补充
 :---:   | :--------: | :---: | :---: | :---:
  | | | |
-202307 | 01 | 能干猫猫今天也忧郁 | [Click](还没搞) | 简繁先行<br>双语看心情
+202307 | 06 | 能干猫猫今天也忧郁 | [Click](还没搞) | 简繁先行<br>双语看心情
 ||||
 202304 | 05 | 江户前精灵 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁先行<br>双语看心情
 202304 | 01-12(END) | 我的百合乃工作是也！ | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简体、繁体字幕
