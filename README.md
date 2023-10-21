@@ -10,22 +10,23 @@
 
 日期 | 更新至哪一集 | 番组名称 | 字体 | 其他补充
 :---:   | :--------: | :---: | :---: | :---:
-202310 | 02 | 凹凸魔女亲子日常 | 同字幕路径下 | 简繁
+202310 | 03 | 我推乃是恶役大小姐 | 同字幕路径下 | 中日双语
+202310 | 03 | 凹凸魔女亲子日常 | 同字幕路径下 | 中日双语
  | | | |
 202307 | 08 | 能干猫猫今天也忧郁 | [Click](还没搞) | 简繁
 ||||
 202304 | 05 | 江户前精灵 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
 202304 | 01-12(END) | 我的百合乃工作是也！ | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
  | |  |  | 
-202301 | 11 | Ipponagain!<br>再得一胜！| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/Ippon%20again!) | 01-09另发布AV1编码版本<br>10-13单集仅发布Telegram<br>合集将会延期至四月制作
+202301 | 11 | Ipponagain!<br>再得一胜！| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/Ippon%20again!) | -
 202301 | 01-12(END) | 转生王女与天才千金的魔法革命| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD) | 单集另发布AV1编码版本
  | |  |  | 
 202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 <br/> Yu Gothic | 
 202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 <br/> Yu Gothic | 
-202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | 暂时开摆
+202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | BD制作中
  | |  |  |
 202207 | 03+BD(END) | 外之国少女 | 方正北魏楷书_GBK<br/>汉仪家书简<br/>方正正中黑_GBK <br/> UDDigiKyokashoN-B | 
-202207 | 13(END) | Lycoris Recoil | 思源宋体 CN<br/>思源宋体 TW <br/> Yu Gothic | 成品不佳 择期重置
+202207 | 13(END) | Lycoris Recoil | 思源宋体 CN<br/>思源宋体 TW <br/> Yu Gothic | -
 
 
 ## 字幕注意事项
