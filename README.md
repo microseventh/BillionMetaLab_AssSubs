@@ -10,15 +10,11 @@
 
 日期 | 更新至哪一集 | 番组名称 | 字体 | 其他补充
 :---:   | :--------: | :---: | :---: | :---:
-202310 | 05 | 我推乃是恶役大小姐 | 同字幕路径下 | 中日双语
-202310 | 02 | 凹凸魔女亲子日常 | 同字幕路径下 | 中日双语
- | | | |
-202307 | 08 | 能干猫猫今天也忧郁 | [Click](还没搞) | 简繁
+202310 | 07 | 我推乃是恶役大小姐 | 同字幕路径下 | 中日双语
 ||||
 202304 | 05 | 江户前精灵 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
 202304 | 01-12(END) | 我的百合乃工作是也！ | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
  | |  |  | 
-202301 | 11 | Ipponagain!<br>再得一胜！| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/Ippon%20again!) | -
 202301 | 01-12(END) | 转生王女与天才千金的魔法革命| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD) | 单集另发布AV1编码版本
  | |  |  | 
 202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 <br/> Yu Gothic | 
