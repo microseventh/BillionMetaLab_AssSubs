@@ -10,7 +10,7 @@
 
 日期 | 更新至哪一集 | 番组名称 | 字体 | 其他补充
 :---:   | :--------: | :---: | :---: | :---:
-202310 | 07 | 我推乃是恶役大小姐 | 同字幕路径下 | 中日双语
+202310 | 10 | 我推乃是恶役大小姐 | 同字幕路径下 | 中日双语
 ||||
 202304 | 05 | 江户前精灵 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
 202304 | 01-12(END) | 我的百合乃工作是也！ | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
