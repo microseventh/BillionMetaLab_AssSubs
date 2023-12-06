@@ -15,6 +15,10 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Scroll Position: 820
+Active Line: 832
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP-JP W,Zen Maru Gothic Black,78,&H00FFFFFF,&H000000FF,&H006C40CB,&H00E7C7F6,-1,0,0,0,100,100,0,0,1,2.8,0.6,8,10,10,10,1
@@ -529,7 +533,7 @@ Dialogue: 1,0:20:34.72,0:20:37.88,JP A 2,Claire,0,0,0,,お姉様までバカな�
 Dialogue: 1,0:20:38.19,0:20:41.39,JP A 2,Claire,0,0,0,,この者は　わたくしをからかっているだけですわ
 Dialogue: 1,0:20:41.39,0:20:45.14,JP A 2,Rae,0,0,0,,私は本気だと何度も申し上げているではありませんか
 Dialogue: 1,0:20:45.14,0:20:47.70,JP A 2,Manaria,0,0,0,,あれ　レイの片思いなの
-Dialogue: 0,0:20:47.70,0:20:48.89,JP A 2,Thane/Yu,0,0,0,,うん　うん
+Dialogue: 1,0:20:47.70,0:20:48.89,JP A 2,Thane/Yu,0,0,0,,うん　うん
 Dialogue: 1,0:20:48.89,0:20:52.43,JP A 2,Manaria,0,0,0,,へえ　そっか　なるほど
 Dialogue: 1,0:20:53.77,0:20:56.61,JP A 2,Claire,0,0,0,,だいたい　同性ということなら
 Dialogue: 1,0:20:56.61,0:20:59.43,JP A 2,Claire,0,0,0,,あなたなんかよりも　お姉様を選びますわよ
@@ -870,7 +874,7 @@ Dialogue: 0,0:20:25.75,0:20:28.87,CN A 2,Yu,0,0,0,,克蕾雅就好啦 畢竟有�
 Dialogue: 0,0:20:28.87,0:20:30.50,CN A 2,Claire,0,0,0,,優大人
 Dialogue: 0,0:20:30.50,0:20:34.72,CN A 2,Manaria,0,0,0,,嗯 果然零和克蕾雅 是那種關係啊
 Dialogue: 0,0:20:34.72,0:20:37.88,CN A 2,Claire,0,0,0,,姐姐大人不要聽信也不要胡言亂語
-Dialogue: 0,0:20:38.19,0:20:41.39,CN A 2,Claire,0,0,0,,這個人 只不過是在那我開玩笑
+Dialogue: 0,0:20:38.19,0:20:41.39,CN A 2,Claire,0,0,0,,這個人 只不過是在拿我開玩笑
 Dialogue: 0,0:20:41.39,0:20:45.14,CN A 2,Rae,0,0,0,,我的心意已經說了無數次是真心實意的
 Dialogue: 0,0:20:45.14,0:20:47.70,CN A 2,Manaria,0,0,0,,啊嘞 是零的單相思啊
 Dialogue: 0,0:20:47.70,0:20:48.89,CN A 2,Thane/Yu,0,0,0,,嗯 嗯
