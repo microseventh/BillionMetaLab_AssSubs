@@ -8,17 +8,6 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Last Style Storage: mahoshojo
-Audio File: ../ADN/Gushing over Magical Girls S01E01 UNCENSORED VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv
-Video File: ../ADN/Gushing over Magical Girls S01E01 UNCENSORED VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (ADN).mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 353
-Active Line: 364
-Video Position: 31801
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ZH-Main-Down,方正正粗黑_GBK,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2.1,0,1,2.2,0,2,10,10,16,1
