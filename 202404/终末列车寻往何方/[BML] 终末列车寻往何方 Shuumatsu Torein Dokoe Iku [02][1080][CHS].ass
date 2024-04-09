@@ -10,6 +10,8 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 Original Translation: microseventh
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: JP-ED-Up,EPSON 太丸ゴシック体Ｂ,46,&HFF000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2.1,0,1,3.2,0,8,10,10,24,1
@@ -117,7 +119,7 @@ Dialogue: 0,0:00:00.55,0:00:03.36,ZH-Main-Down,Iguchi,0,0,0,,那么 就来介绍
 Comment: 0,0:02:09.78,0:02:11.78,ZH-Main-Down,,0,0,0,,正文
 Dialogue: 0,0:02:11.78,0:02:13.65,ZH-Main-Down,Reimi,0,0,0,,哇 好厉害
 Dialogue: 0,0:02:14.23,0:02:16.00,ZH-Main-Down,Reimi,0,0,0,,好厉害的水光
-Dialogue: 0,0:02:16.00,0:02:17.48,ZH-Main-Down,Reimi,0,0,0,,这里是球磨川吗
+Dialogue: 0,0:02:16.00,0:02:17.48,ZH-Main-Down,Reimi,0,0,0,,这里是高丽川吗
 Dialogue: 0,0:02:17.48,0:02:20.55,ZH-Main-Down,Reimi,0,0,0,,吾野出来竟然是这样的风景啊
 Dialogue: 0,0:02:20.55,0:02:22.18,ZH-Main-Down,Akira,0,0,0,,无忧无虑
 Dialogue: 0,0:02:22.18,0:02:23.07,ZH-Main-Down,Reimi,0,0,0,,喂
@@ -372,7 +374,7 @@ Dialogue: 0,0:10:19.25,0:10:20.58,ZH-Main-Down,Nadeshiko,0,0,0,,什么是什么�
 Dialogue: 0,0:10:20.58,0:10:21.59,ZH-Main-Down,Reimi,0,0,0,,那个是
 Dialogue: 0,0:10:21.59,0:10:22.61,ZH-Main-Down,Akira,0,0,0,,是球磨水怪
 Dialogue: 0,0:10:22.61,0:10:23.56,ZH-Main-Down,Group,0,0,0,,球磨水怪
-Dialogue: 0,0:10:23.56,0:10:27.15,ZH-Main-Down,Akira,0,0,0,,是球磨川现存的 传说中的神秘龙首
+Dialogue: 0,0:10:23.56,0:10:27.15,ZH-Main-Down,Akira,0,0,0,,是高丽川现存的 传说中的神秘龙首
 Dialogue: 0,0:10:31.34,0:10:32.10,ZH-Main-Down,Shizuru,0,0,0,,啊
 Dialogue: 0,0:10:32.61,0:10:33.98,ZH-Main-Down,Shizuru,0,0,0,,是球磨水怪
 Dialogue: 0,0:10:36.25,0:10:37.94,ZH-Main-Down,Shizuru,0,0,0,,竟然是球磨水怪
@@ -381,12 +383,12 @@ Dialogue: 0,0:10:53.23,0:10:55.71,ZH-Main-Down,Swan Hermit,0,0,0,,你们到底�
 Dialogue: 0,0:10:55.71,0:10:56.71,ZH-Main-Down,Akira,0,0,0,,小心
 Dialogue: 0,0:10:56.71,0:10:58.58,ZH-Main-Down,Akira,0,0,0,,他绝对是杀人魔鬼来了结我们的
 Dialogue: 0,0:10:58.58,0:10:59.47,ZH-Main-Down,Swan Hermit,0,0,0,,是的
-Dialogue: 0,0:10:59.47,0:11:03.10,ZH-Main-Down,Swan Hermit,0,0,0,,我就是球磨川史上最强的连环杀人凶手
+Dialogue: 0,0:10:59.47,0:11:03.10,ZH-Main-Down,Swan Hermit,0,0,0,,我就是高丽川史上最强的连环杀人凶手
 Dialogue: 0,0:11:03.10,0:11:04.69,ZH-Main-Down,Swan Hermit,0,0,0,,喂 你太无礼了
 Dialogue: 0,0:11:08.51,0:11:10.90,ZH-Main-Down,Shizuru,0,0,0,,那个 你是哪位
 Dialogue: 0,0:11:10.90,0:11:12.88,ZH-Main-Down,Swan Hermit,0,0,0,,我的名字并不重要
 Dialogue: 0,0:11:15.27,0:11:18.53,ZH-Main-Down,Swan Hermit,0,0,0,,呀嘛 那个 我是说
-Dialogue: 0,0:11:18.53,0:11:22.86,ZH-Main-Down,Swan Hermit,0,0,0,,我在球磨川来回穿梭 研究并记录了很多信息
+Dialogue: 0,0:11:18.53,0:11:22.86,ZH-Main-Down,Swan Hermit,0,0,0,,我在高丽川来回穿梭 研究并记录了很多信息
 Dialogue: 0,0:11:22.86,0:11:26.06,ZH-Main-Down,Swan Hermit,0,0,0,,好久没有见到任何人了 真的吓我一跳
 Dialogue: 0,0:11:26.06,0:11:28.27,ZH-Main-Down,Swan Hermit,0,0,0,,那啥 你们在做什么呢
 Dialogue: 0,0:11:28.27,0:11:31.35,ZH-Main-Down,Shizuru,0,0,0,,欸 我们 打算前往池袋来着
@@ -464,7 +466,7 @@ Dialogue: 0,0:13:39.46,0:13:42.46,ZH-Main-Down,Swan Hermit,0,0,0,,太感谢啦�
 Dialogue: 0,0:13:42.46,0:13:43.78,ZH-Main-Down,Shizuru,0,0,0,,真的不用客气
 Dialogue: 0,0:13:43.78,0:13:45.44,ZH-Main-Down,Shizuru,0,0,0,,照顾好自己 老爷爷
 Dialogue: 0,0:13:45.44,0:13:46.59,ZH-Main-Down,Swan Hermit,0,0,0,,这里就交给我吧
-Dialogue: 0,0:13:46.59,0:13:50.53,ZH-Main-Down,Swan Hermit,0,0,0,,我会沿着球磨川 顺着西池袋线而上
+Dialogue: 0,0:13:46.59,0:13:50.53,ZH-Main-Down,Swan Hermit,0,0,0,,我会沿着高丽川 顺着西池袋线而上
 Dialogue: 0,0:13:50.53,0:13:52.48,ZH-Main-Down,Swan Hermit,0,0,0,,所有的谜题都会一一解明
 Dialogue: 0,0:13:52.48,0:13:53.59,ZH-Main-Down,Swan Hermit,0,0,0,,诶 等会
 Dialogue: 0,0:13:53.59,0:13:55.59,ZH-Main-Down,Swan Hermit,0,0,0,,我才不是老爷爷啊
@@ -586,7 +588,7 @@ Dialogue: 0,0:18:34.77,0:18:35.64,ZH-Main-Down,Reimi,0,0,0,,你敲的对吗
 Dialogue: 0,0:18:35.64,0:18:36.79,ZH-Main-Down,Reimi,0,0,0,,不会是在瞎编吧
 Dialogue: 0,0:18:36.79,0:18:37.64,ZH-Main-Down,Akira,0,0,0,,给我闭嘴
 Dialogue: 0,0:18:40.30,0:18:41.99,ZH-Main-Down,Zenjiro,0,0,0,,水位上升
-Dialogue: 0,0:18:41.99,0:18:43.32,ZH-Main-Down,Zenjiro,0,0,0,,也就是说在球磨川吗
+Dialogue: 0,0:18:41.99,0:18:43.32,ZH-Main-Down,Zenjiro,0,0,0,,也就是说在高丽川吗
 Dialogue: 0,0:18:43.90,0:18:47.26,ZH-Main-Down,Akira,0,0,0,,电车淹水危险 请开到高出避难
 Dialogue: 0,0:18:47.26,0:18:47.94,ZH-Main-Down,Akira,0,0,0,,他这么说
 Dialogue: 0,0:18:47.94,0:18:49.08,ZH-Main-Down,Shizuru,0,0,0,,欸
