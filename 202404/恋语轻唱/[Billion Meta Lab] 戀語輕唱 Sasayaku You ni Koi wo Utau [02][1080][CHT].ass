@@ -10,6 +10,9 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Active Line: 1
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP-01-JP,EPSON 正楷書体Ｍ,47,&H00FFFFFF,&H000000FF,&H00862C9E,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2.8,0,2,10,10,10,1
@@ -24,7 +27,7 @@ Style: CN-1,方正准雅宋_GBK,77,&H00585B65,&H000000FF,&H00862C9E,&H00FFFFFF,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:02:40.39,0:02:40.39,CN-1,,0,0,0,,
-Dialogue: 1,0:02:40.39,0:02:45.18,CN-1,,0,0,100,,{\fad(240,0)}戀語輕唱
+Dialogue: 1,0:02:40.39,0:02:45.18,CN-1,,0,0,100,,{\fad(240,0)}戀語輕唱 
 Dialogue: 2,0:02:43.56,0:02:45.18,CN-1,,0,0,100,,{\fad(370,0)}戀{\c&HC580FA&}語{\c&H585B65&}輕{\c&HC580FA&}唱
 Dialogue: 2,0:23:35.97,0:23:40.97,main-CN,,0,0,0,,{\fad(600,0)\an8}本字幕由 {\c&HC580FA&}Billion Meta Lab {\c&HFFFFFF&}製作 僅供學習交流使用\N翻譯、校對、壓製：{\c&HC580FA&}小柒
 Comment: 0,0:01:07.67,0:01:09.67,main-CN,,0,0,0,,插入行
@@ -111,7 +114,7 @@ Dialogue: 0,0:01:31.46,0:01:35.21,main-CN,,0,0,0,,我對前輩原創歌曲 非�
 Dialogue: 0,0:01:39.88,0:01:42.38,main-CN,,0,0,0,,木野同學都這麼說 我會考慮的
 Dialogue: 0,0:01:45.83,0:01:48.38,main-CN,,0,0,0,,啊抱歉 那個一不小心就…
 Dialogue: 0,0:01:48.38,0:01:53.92,main-CN,,0,0,0,,不 沒事 沒事 我一點也不介意的…
-Dialogue: 0,0:01:54.75,0:02:00.35,main-CN,,0,0,0,,雖然並不在意 那個就是… 
+Dialogue: 0,0:01:54.75,0:02:00.35,main-CN,,0,0,0,,雖然並不在意 那個就是…
 Dialogue: 0,0:02:00.35,0:02:05.29,main-CN,,0,0,0,,被依前輩摸了頭後 有些不好意思…
 Dialogue: 0,0:02:09.79,0:02:12.83,main-CN,,0,0,0,,前輩 我們可以一起回家嗎
 Dialogue: 0,0:02:12.83,0:02:14.75,main-CN,,0,0,0,,啊 嗯 好
