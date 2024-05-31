@@ -3,6 +3,8 @@
 日期 | 更新至哪一集 | 番组名称 | 中文字体 | 日文字体|字幕位置
 ---    | -------- | --- | --- | --- |---
 ||||
+202404 | 05 | 恋语轻唱 | 同字幕路径下 | 简繁
+||||
 202401 | 07(ABD) | 憧憬成为魔法少女 | 同字幕路径下 | 同字幕路径下
 ||||
 202207 | 08(Abandon)| 风都侦探 | 方正FW珍珠体 简繁 | Yu Gothic| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202207/Fuuto%20Tantei%EF%BC%88%E9%A3%8E%E9%83%BD%E4%BE%A6%E6%8E%A2%EF%BC%89)
