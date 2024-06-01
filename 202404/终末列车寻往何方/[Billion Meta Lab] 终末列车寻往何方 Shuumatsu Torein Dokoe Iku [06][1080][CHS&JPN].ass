@@ -11,6 +11,17 @@ YCbCr Matrix: TV.709
 Original Translation: microseventh
 Original Editing: microseventh
 
+[Aegisub Project Garbage]
+Last Style Storage: train
+Audio File: 06.mkv
+Video File: 06.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 574
+Active Line: 585
+Video Position: 29772
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: JP-ED-Up,EPSON 太丸ゴシック体Ｂ,46,&HFF000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2.1,0,1,3.2,0,8,10,10,24,1
@@ -604,7 +615,7 @@ Dialogue: 1,0:20:19.43,0:20:20.99,JP-Main-Down,Nadeshiko,0,0,0,,いえ　そん�
 Dialogue: 1,0:20:20.99,0:20:22.03,JP-Main-Down,Neko,0,0,0,,気をつけて
 Dialogue: 1,0:20:22.03,0:20:23.16,JP-Main-Down,Neko,0,0,0,,ゾンビに会ったら
 Dialogue: 1,0:20:23.16,0:20:25.19,JP-Main-Down,Neko,0,0,0,,とにもかくにも動かないのが一番だ
-Dialogue: 1,0:20:25.57,0:20:29.03,JP-Main-Down,Neko,0,0,0,,さっき言った対策は　あくまで説の一つだから
+Dialogue: 1,0:20:25.57,0:20:29.03,JP-Main-Down,Neko,0,0,0,,さっき言った対策は　飽くまで説の一つだから
 Dialogue: 1,0:20:30.60,0:20:32.04,JP-Main-Down,Group,0,0,0,,ゾンビ
 Dialogue: 1,0:20:32.04,0:20:32.85,JP-Main-Down,Reimi,0,0,0,,あれでしょ
 Dialogue: 1,0:20:32.85,0:20:34.54,JP-Main-Down,Reimi,0,0,0,,目玉が垂れてたり　腐ってたり
@@ -612,7 +623,7 @@ Dialogue: 1,0:20:34.54,0:20:36.14,JP-Main-Down,Reimi,0,0,0,,脳みそ吸った�
 Dialogue: 1,0:20:36.14,0:20:37.21,JP-Main-Down,Akira,0,0,0,,だいたい合ってる
 Dialogue: 1,0:20:37.21,0:20:39.48,JP-Main-Down,Nadeshiko,0,0,0,,ゾンビに噛まれたらゾンビになる
 Dialogue: 1,0:20:39.48,0:20:40.34,JP-Main-Down,Akira,0,0,0,,だいたいなる
-Dialogue: 1,0:20:40.34,0:20:43.11,JP-Main-Down,Reimi,0,0,0,,どうしよう　しずるちゃんがゾンビになってたら
+Dialogue: 1,0:20:40.34,0:20:43.11,JP-Main-Down,Reimi,0,0,0,,どうしよう　静留ちゃんがゾンビになってたら
 Dialogue: 1,0:20:43.11,0:20:45.27,JP-Main-Down,Akira,0,0,0,,最近は割と賢かったり
 Dialogue: 1,0:20:45.27,0:20:48.35,JP-Main-Down,Akira,0,0,0,,生きてた頃の人格あるゾンビもいるとかいないとか
 Dialogue: 1,0:20:48.35,0:20:49.57,JP-Main-Down,Reimi,0,0,0,,襲ってこない
@@ -1139,7 +1150,7 @@ Dialogue: 0,0:20:19.43,0:20:20.99,ZH-Main-Down,Nadeshiko,0,0,0,,没事 我们不
 Dialogue: 0,0:20:20.99,0:20:22.03,ZH-Main-Down,Neko,0,0,0,,要小心一点
 Dialogue: 0,0:20:22.03,0:20:23.16,ZH-Main-Down,Neko,0,0,0,,要是见到僵尸
 Dialogue: 0,0:20:23.16,0:20:25.19,ZH-Main-Down,Neko,0,0,0,,无论如何按兵不动才是最好的
-Dialogue: 0,0:20:25.57,0:20:29.03,ZH-Main-Down,Neko,0,0,0,,刚刚说的对策 是恶魔理论之一
+Dialogue: 0,0:20:25.57,0:20:29.03,ZH-Main-Down,Neko,0,0,0,,刚刚说的对策 到底也只是说法之一
 Dialogue: 0,0:20:30.60,0:20:32.04,ZH-Main-Down,Group,0,0,0,,僵尸
 Dialogue: 0,0:20:32.04,0:20:32.85,ZH-Main-Down,Reimi,0,0,0,,是那个吧
 Dialogue: 0,0:20:32.85,0:20:34.54,ZH-Main-Down,Reimi,0,0,0,,眼球垂落 身体腐朽
