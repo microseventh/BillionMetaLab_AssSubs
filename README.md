@@ -1,5 +1,5 @@
 # Billion Meta Lab AssSubs 
-# 亿次研同好会 番剧字幕汇总
+# 亿次研同好会 番剧字幕汇总 
 
 
 所有制作过的番剧，都会发布到每个季度的文件夹里。弃坑的番组[在这里看](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/Abandon_bangumi)。
