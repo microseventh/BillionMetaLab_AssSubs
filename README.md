@@ -11,21 +11,23 @@
 日期 | 更新至哪一集 | 番组名称 | 字体 | 其他补充
 :---:   | :--------: | :---: | :---: | :---:
 ||||
-202404 | 12(END) | 终末列车寻往何方 | 同字幕路径下 | 简繁+日
+202407 | 01 | [双重四亡·恶魔毁灭](./202407/双重四亡·恶魔毁灭/) | 同字幕路径下 | 简繁日
 ||||
-202310 | 12(END) | 我推乃是恶役大小姐 | 同字幕路径下 | 中日双语
+202404 | 12(END) | [终末列车寻往何方](./202404/终末列车寻往何方/) | 同字幕路径下 | 简繁日
+||||
+202310 | 12(END) | [我推乃是恶役大小姐](./202310/我推乃是恶役大小姐/) | 同字幕路径下 | 中日双语
 ||||
 202304 | 05 | 江户前精灵 | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
-202304 | 01-12(END) | 我的百合乃工作是也！ | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
+202304 | 01-12(END) | [我的百合乃工作是也！](./202304/我的百合乃工作是也/) | [Click](https://drive.google.com/drive/folders/1KnSFtEKMKIDxezybI2_K9KRNhR55IMRN?usp=sharing) | 简繁
  | |  |  | 
-202301 | 01-12(END) | 转生王女与天才千金的魔法革命| [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD) | 单集另发布AV1编码版本
+202301 | 01-12(END) | [转生王女与天才千金的魔法革命](./202301/转生王女与天才千金的魔法革命/) | [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202301/%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD) | 单集另发布<br/>AV1编码版本
  | |  |  | 
-202210 | 12(END) | Do it yourself!! | 仓耳今楷01-W05 <br/> Yu Gothic | 
-202210 | 08(END) | 明日方舟：黎明前奏（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 <br/> Yu Gothic | 
-202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) (**与MingYSub联合制作**) | （略） | BD制作中
+202210 | 12(END) | [Do it yourself!!](./202210/Do%20it%20yourself!!/) | 仓耳今楷01-W05 <br/> Yu Gothic | 简繁
+202210 | 08(END) | [明日方舟：黎明前奏](./202210/Arknights%20Prelude%20to%20Dawn/)<br/>（Arknights: Prelude to Dawn） | 仓耳今楷01-W05 <br/> Yu Gothic | 简繁
+202210 | 03 | [孤独摇滚](https://github.com/MingYSub/SubArchive/tree/main/Archive/Bocchi%20the%20Rock%21) <br/>(**与MingYSub联合制作**) | （略） | Finished
  | |  |  |
-202207 | 03+BD(END) | 外之国少女 | 方正北魏楷书_GBK<br/>汉仪家书简<br/>方正正中黑_GBK <br/> UDDigiKyokashoN-B | 
-202207 | 13(END) | Lycoris Recoil | 思源宋体 CN<br/>思源宋体 TW <br/> Yu Gothic | -
+202207 | 03+BD(END) | [外之国少女](./202207/外之国少女/) | 方正北魏楷书_GBK<br/>汉仪家书简<br/>方正正中黑_GBK <br/> UDDigiKyokashoN-B | 简繁
+202207 | 13(END) | [Lycoris Recoil](./202207/Lycoris%20Recoil/) | 思源宋体 CN<br/>思源宋体 TW <br/> Yu Gothic | 简繁
 
 
 ## 字幕注意事项
