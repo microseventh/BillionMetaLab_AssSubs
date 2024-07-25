@@ -15,6 +15,17 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Last Style Storage: dddd
+Audio File: 05.mkv
+Video File: 05.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 837
+Active Line: 841
+Video Position: 22774
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: CN,方正锐正黑_GBK ExtraBold,77,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,10,10,27,1
@@ -940,7 +951,7 @@ Dialogue: 0,0:18:20.78,0:18:22.62,CN - down,,0,0,0,,早上好 好久不见
 Dialogue: 0,0:18:22.92,0:18:23.73,CN - down,,0,0,0,,音短
 Dialogue: 0,0:18:23.73,0:18:25.29,CN - down,,0,0,0,,你招呼顺序打反了吧
 Dialogue: 0,0:18:26.13,0:18:26.66,CN - down,,0,0,0,,那个我说
-Dialogue: 0,0:18:27.14,0:18:28.79,CN - down,,0,0,0,,放学后我回去你家的
+Dialogue: 0,0:18:27.14,0:18:28.79,CN - down,,0,0,0,,放学后我会去你家的
 Dialogue: 0,0:18:28.79,0:18:30.67,CN - down,,0,0,0,,在学校你就不用勉强了
 Dialogue: 0,0:18:31.08,0:18:32.80,CN - down,,0,0,0,,没事的没事的俺
 Dialogue: 0,0:18:32.80,0:18:34.05,CN - down,,0,0,0,,俺没事的
