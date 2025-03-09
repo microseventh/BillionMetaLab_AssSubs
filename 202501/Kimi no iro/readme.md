@@ -8,7 +8,8 @@ The.Colors.Within.2024.1080p.AMZN.WEB-DL.H264.DDP5.1-QuickIO.mkv
 
 BD SOURCE:
 
-COMING SOON.
+[Moozzi2] Kimi no Iro [ x265-10Bit Ver. ] - Movie + Tokuten BD
+[Moozzi2] Kimi no Iro (BD 1920x1036 x265-10Bit 4Audio).mkv
 
 MORE:
 
