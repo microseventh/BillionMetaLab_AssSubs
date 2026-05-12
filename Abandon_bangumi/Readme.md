@@ -3,8 +3,9 @@
 日期 | 更新至哪一集 | 番组名称 | 中文字体 | 日文字体|字幕位置
 ---    | -------- | --- | --- | --- |---
 ||||
+| 202510 |      03      | [爆笑职场](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202510/爆笑职场) `` 这里是充满笑容的职场 |      /      |  简繁日  |
 | 202507 |      01（ABD）      |                                [死灵书巫女的宇宙恐怖秀](./202507/死灵书巫女的宇宙恐怖秀/)                                | 同字幕路径下 |  简繁日  |
-| 202501 |      07      |                       [昙花一现的百合](./202501/Momentary%20Lily/)</br>刹那之花                       | 同字幕路径下 |  简繁日  |
+| 202501 |      07      |                       [昙花一现的百合](./202501/Momentary%20Lily/)刹那之花                       | 同字幕路径下 |  简繁日  |
 202404 | 05 | 恋语轻唱 | 同字幕路径下 | 简繁
 ||||
 202401 | 07(ABD) | 憧憬成为魔法少女 | 同字幕路径下 | 同字幕路径下
@@ -16,3 +17,4 @@
 202304 | 01 | 绊之Allele | - | - | [无心插柳](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202304/%E7%BB%8A%E4%B9%8BAllele)
 202307 | 08 | 能干猫猫今天也忧郁 | 同路径下 | 同路径下 | [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202307)
 202310 | 03 | 凹凸魔女亲子日常 | 同路径下 | 同路径下 | [Click](https://github.com/microseventh/BillionMetaLab_AssSubs/tree/main/202310/%E5%87%B9%E5%87%B8%E9%AD%94%E5%A5%B3%E4%BA%B2%E5%AD%90%E6%97%A5%E5%B8%B8)
+
