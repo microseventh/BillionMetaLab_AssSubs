@@ -1,0 +1,58 @@
+MIT License
+
+MIT 许可证
+
+MITライセンス
+
+Copyright (c) 2023-2026 Billion Meta Lab
+
+## 权利主体名称说明 / Rights-holder names / 権利者名
+
+- English: Billion Meta Lab
+- 简体中文：亿次研同好会
+- 繁體中文：億次研同好會
+- 日本語：億次研同好会（いじげん どうこうかい）
+
+除非相关作品、文件或其随附说明另有明确规定，上述名称均指同一版权主体。今后以简体中文、繁體中文或日本語名称制作、发布或署名的本项目内容，其版权及其他相关权利均归属于英文名称 **Billion Meta Lab**。合作制作内容及其他明确标注权利人的内容，以其特别说明为准。
+
+Unless a work, file, or accompanying notice expressly states otherwise, the names above identify the same copyright holder. Unless otherwise specified, copyright and other related rights in future project content created, published, or credited under the Simplified Chinese, Traditional Chinese, or Japanese name belong to the English name **Billion Meta Lab**. Collaborative works and content that expressly identifies another rights holder are governed by their specific notice.
+
+関連する作品、ファイル、または付属の説明に別段の明示がない限り、上記の名称は同一の著作権者を指します。特に明記されていない限り、簡体字中国語名、繁体字中国語名、または日本語名で制作、公開、もしくは表示された今後の本プロジェクトのコンテンツに関する著作権その他の関連する権利は、英語名 **Billion Meta Lab** に帰属します。共同制作物および別の権利者が明示されているコンテンツについては、その特別な表示に従います。
+
+## AI 相关使用 / AI-related use / AI に関する利用
+
+在遵守本许可证其他条款及相关作品特别许可的前提下，允许将本项目内容用于人工智能或机器学习系统的训练、预训练、微调、评估、推理、检索增强，以及翻译、校对、时间轴处理、格式转换、字幕生成等辅助用途。由此产生的模型、分析结果或衍生内容，不得暗示得到 Billion Meta Lab 的官方认可或背书；使用者仍须自行确认其输入、输出及发布行为符合适用法律和第三方权利要求。
+
+Subject to the other terms of this license and any specific license for a work, the project content may be used with artificial intelligence or machine learning systems for training, pretraining, fine-tuning, evaluation, inference, retrieval-augmented use, translation, proofreading, timing, format conversion, subtitle generation, and related assistance. Models, analyses, or derivative content produced through such use must not imply official approval or endorsement by Billion Meta Lab. Users remain responsible for ensuring that their inputs, outputs, and publication activities comply with applicable law and third-party rights.
+
+本ライセンスのその他の条件および各作品に別途定められた許諾に従う限り、本プロジェクトのコンテンツは、人工知能または機械学習システムの学習、事前学習、ファインチューニング、評価、推論、検索拡張、翻訳、校正、タイミング処理、形式変換、字幕生成その他の補助用途に利用できます。これらの利用によって生成されたモデル、分析結果または派生コンテンツは、Billion Meta Lab による公式の承認または推奨を示唆してはなりません。利用者は、入力、出力および公開行為が適用法令ならびに第三者の権利に適合することについて、自ら責任を負います。
+
+---
+
+## 中文
+
+特此免费授予任何获得本软件及相关文档文件（以下简称“软件”）副本的人不受限制地处理本软件的权利，包括但不限于使用、复制、修改、合并、出版、分发、再许可和/或销售软件副本的权利，并允许向软件接收者授予上述权利，但须符合以下条件：
+
+上述版权声明和本许可声明应包含在软件的所有副本或重要部分中。
+
+本软件按“现状”提供，不提供任何明示或默示的保证，包括但不限于适销性、特定用途适用性和不侵权保证。在任何情况下，作者或版权持有人均不对因本软件或本软件的使用或其他交易而产生的任何索赔、损害或其他责任负责，无论该责任属于合同、侵权还是其他情形。
+
+---
+
+## 日本語
+
+本ソフトウェアおよび関連文書ファイル（以下「ソフトウェア」）の複製を取得するすべての者に対し、ソフトウェアを無制限に取り扱う権利を無償で許諾します。これには、使用、複製、変更、結合、出版、頒布、サブライセンスおよび／または販売が含まれます。また、ソフトウェアの提供を受けた者に同じ権利を許諾することができます。ただし、以下の条件に従うものとします。
+
+上記の著作権表示および本許諾表示は、ソフトウェアのすべての複製または重要な部分に含めなければなりません。
+
+ソフトウェアは「現状のまま」提供され、商品性、特定目的への適合性および権利非侵害を含む、明示または黙示のいかなる保証もありません。作者または著作権者は、契約、不法行為その他の原因を問わず、ソフトウェアまたはその使用その他の取引に起因する請求、損害その他の責任について、一切責任を負いません。
+
+---
+
+## English
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
